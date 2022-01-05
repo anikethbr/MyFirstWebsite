@@ -4,6 +4,7 @@ body{
     margin: 0px;
     text-align: center;
     font-family: 'Merriweather', serif;
+    max-width:100%;
 }
 p{
     line-height: 2;
