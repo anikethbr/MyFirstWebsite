@@ -48,6 +48,8 @@ h3{
 }
 .mountain-img{
 margin-top: 10%;
+width: 100%;
+box-sizing: border-box;
 }
 .profile-pic{
     border-radius: 500px;
