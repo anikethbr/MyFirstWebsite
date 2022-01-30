@@ -55,22 +55,36 @@ box-sizing: border-box;
     border-radius: 500px;
     height: 200px;
 }
+.profile-text{
+    text-align: center;
+    float:none;margin:auto;
+}
 .skill-row{
     margin: 100px auto 100px auto;
-    width: 70%;
+    width: 90%;
     text-align: left;
 }
 .skill-set1{
     border-radius: 50%;
     width: 25%;
+    height: 40%;
     float: left;
     margin-right: 30px;
 }
 .skill-set2{
     border-radius: 50%;
     width: 25%;
+    height: 40%;
     float: right;
     margin-left: 30px;
+}
+.skill-set-text-1{
+    margin-top: 20%;
+    text-align: left;
+}
+.skill-set-text-2{
+    margin-top: 20%;
+    text-align: right;
 }
 .top-cloud{
     position: absolute;
@@ -94,7 +108,7 @@ box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     font-size: 20px;
-    padding: 10px 20px 10px 20px;
+    padding: 1% 1.5% 1% 1.5%;
     text-decoration: none;
   }
   
